@@ -99,9 +99,9 @@ const QuizApp = () => {
 };
 
 const styles = StyleSheet.create({
-  container: { flex: 1, justifyContent: 'center', alignItems: 'center', padding: 30, backgroundColor: '#121212' },
+  container: { flex: 1, justifyContent: 'center', alignItems: 'center', padding: 30, backgroundColor: 'pink' },
   title: { fontSize: 22, color: 'white', marginBottom: 15, textAlign: 'center' },
-  inputContainer: { alignItems: 'center', padding: 20, backgroundColor: '#1e1e1e', borderRadius: 10, width: '90%' },
+  inputContainer: { alignItems: 'center', padding: 20, backgroundColor: 'whitegreen', borderRadius: 10, width: '90%' },
   input: { borderBottomWidth: 1, width: '80%', textAlign: 'center', color: 'white', fontSize: 18, marginBottom: 15 },
   buttonContainer: { marginTop: 15, width: '80%' },
   quizContainer: { alignItems: 'center', padding: 25, backgroundColor: '#1e1e1e', borderRadius: 10, width: '90%' },

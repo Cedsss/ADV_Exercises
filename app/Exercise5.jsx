@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: 'black',
+        backgroundColor: 'skyblue',
         padding: 20,
     },
     title: {
@@ -96,7 +96,7 @@ const styles = StyleSheet.create({
     button: {
         width: '70%',
         padding: 10,
-        backgroundColor: 'blue',
+        backgroundColor: 'pink',
         borderRadius: 5,
         alignItems: 'center',
     },
